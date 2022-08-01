@@ -1,2 +1,2 @@
-# principais-comandos-git
-Repositório Criado para Apresentar os Principais Comandos no Git
+# Principais Comandos Utilizados no GIT
+Repositório Criado para Apresentar os Principais Comandos utilizados no Git
