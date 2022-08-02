@@ -1,0 +1,13 @@
+## 10 comandos do Git que todo desenvolvedor deveria conhecer
+
+git clone
+git branch
+git checkout
+git status
+git add
+git commit
+git push
+git pull
+git revert
+git merge
+
